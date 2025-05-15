@@ -1,0 +1,25 @@
+baseURL = 'https://scmcphub.github.io/'
+languageCode = 'zh-cn'
+title = 'scmcphub'
+theme = 'PaperMod'
+
+[menu]
+  [[menu.main]]
+    identifier = "servers"
+    name = "Servers"
+    url = "/servers/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "join"
+    name = "Join"
+    url = "/join/"
+    weight = 3
+
+[params]
+  custom_css = ["custom.css"]
