@@ -1,7 +1,7 @@
 baseURL = 'https://scmcphub.github.io/'
 languageCode = 'zh-cn'
 title = 'scmcphub'
-theme = 'PaperMod'
+theme = "github.com/adityatelange/hugo-PaperMod"
 
 [menu]
   [[menu.main]]
