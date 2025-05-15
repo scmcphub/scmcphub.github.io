@@ -1,0 +1,6 @@
+{{- /* Google Analytics placeholder or custom code */ -}}
+{{- if hugo.IsProduction }}
+    {{- with site.Config.Services.GoogleAnalytics.ID }}
+        {{- template "_internal/google_analytics_async.html" . }}
+    {{- end }}
+{{- end }}
