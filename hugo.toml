@@ -1,4 +1,4 @@
-baseURL = 'https://scmcphub.github.io/'
+baseURL = 'https://scmcphub.org/'
 languageCode = 'zh-cn'
 title = 'scmcphub'
 theme = "github.com/adityatelange/hugo-PaperMod"
