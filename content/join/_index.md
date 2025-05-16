@@ -12,6 +12,6 @@ We welcome researchers, developers, and enthusiasts to join the scmcphub communi
 - 🛠️ Contribute to our repositories by submitting pull requests or reporting issues.
 - 💡 Propose new features or improvements.
 - 🤝 Collaborate with us on single-cell and AI research projects.
-- 📧 Contact us: [hsh-me@outlook.com]
+- 📧 Contact us: hsh-me@outlook.com
 
 Let's accelerate single-cell science together! 
